@@ -1,0 +1,21 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "basic_app_2"
+include ':app'
+include ':simple_listview'
+include ':custom_adapterview1'
+include ':custom_adapterview2'
+include ':sqlite_module'
+include ':handler'

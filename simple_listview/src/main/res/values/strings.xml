@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">simple_listview</string>
+    <string-array name="track_name">
+        <item>Toyota Tunder</item>
+        <item>Ford Ranger</item>
+        <item>Jeep Gladiator</item>
+        <item>Nissan Titan</item>
+        <item>Ford F-150</item>
+        <item>Toyota Hilux</item>
+        <item>Honda Ridgline</item>
+        <item>Nissan Frontier</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">custom_adapterview1</string>
+    <string-array name="track_name">
+        <item>Toyota Tundra</item>
+        <item>Ford F-150</item>
+        <item>Jeep Gladiator</item>
+        <item>Nissan Titan</item>
+        <item>Honda Ridgline</item>
+        <item>Ford Ranger</item>
+        <item>Toyota Hilux</item>
+        <item>Nissan Frontier</item>
+    </string-array>
+</resources>
